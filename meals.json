@@ -308,7 +308,7 @@
   "carbs": 28,
   "fats": 3,
   "imageUrl":  "https://raw.githubusercontent.com/muraza6/meal-images/Snack/Greek_yoghurt_parfait_card.png",
-  "detailImageUrl": "https://raw.githubusercontent.com/muraza6/meal-images/snacks/Greek_yoghurt_parfait_detail.png",
+  "detailImageUrl": "https://raw.githubusercontent.com/muraza6/meal-images/Snack/Greek_yoghurt_parfait_detail.png",
   "dietaryCategory": "Vegetarian",
   "description": "Creamy Greek yogurt layered with crunchy granola and fresh berries",
   "ingredients": ["Greek Yogurt", "Granola", "Strawberries", "Blueberries"],
