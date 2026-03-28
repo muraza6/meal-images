@@ -403,5 +403,20 @@
   "description": "Small whole-grain sandwiches filled with turkey, cheese, or egg salad",
   "ingredients": ["Whole-Grain Bread", "Turkey (or Egg Salat)", "Cheese", "Lettuce"],
   "recipe": "1. Cut bread into small squares\n2. Add filling\n3. Assemble and serve"
-}
+},
+{
+    "id": 28,
+    "name": "White Sauce Pasta",
+    "type": "Dinner",
+    "calories": 640,
+    "protein": 22,
+    "carbs": 82,
+    "fats": 26,
+    "imageUrl": "https://raw.githubusercontent.com/muraza6/meal-images/Vegan_meals/WhiteSaucePasta_card.png",
+    "detailImageUrl": "https://raw.githubusercontent.com/muraza6/meal-images/Vegan_meals/WhiteSaucePasta_detail.png",
+    "dietaryCategory": "Vegetarian",
+    "description": "Creamy Penne pasta tossed in a rich, buttery béchamel sauce with herbs",
+    "ingredients": ["Penne Pasta", "Milk", "Butter", "All-purpose Flour", "Garlic", "Parmesan Cheese", "Italian Herbs"],
+    "recipe": "1. Boil pasta in salted water until al dente\n2. Melt butter and whisk in flour to create a roux\n3. Gradually add milk, stirring until thickened\n4. Season with garlic and herbs, then toss with pasta and cheese"
+}  
 ]
